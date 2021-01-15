@@ -2,7 +2,7 @@ package Arrays;
 
 import java.util.*;
 /**
- class to perform linear search
+ class to perform Binary search
  */
 public class BinarySearch
 {
